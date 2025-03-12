@@ -1,0 +1,12 @@
+CASO QUEIRA ALTERAR ALGO, USE O VS CODE ou me fala pelo wpp
++55 13 982292289
+
+EXEMPLO:
+
+<td>Cliente</td>
+<td>Latas</td>
+<td>Preço</td>
+<td>Frete</td>
+<td>Total</td>
+
+alterar os nomes/ valores.
